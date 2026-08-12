@@ -147,7 +147,7 @@
     "ROLE_DEFAULT": "#765900"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/atyan-desu/liquid-lemon-glass-revenge/main/theme-background.png",
+    "url": "https://raw.githubusercontent.com/atyan-desu/liquid-lemon-glass-revenge/main/theme-background-white.png",
     "blur": 0,
     "alpha": 0.72,
     "size": "cover",
