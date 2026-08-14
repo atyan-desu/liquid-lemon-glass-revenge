@@ -2,13 +2,13 @@
 
 Discord Revenge向けに作成したテーマとフォントをまとめています。
 
+このリポジトリのテーマ・フォント設定およびREADMEの作成・整理には、OpenAI Codexを使用しています。
+
 ## テーマ
 
 ### Hare Camp!
 
 黒の半透明パネル、白い文字、黄色のアクセントを使用したテーマです。
-
-<img src="theme-background-plain-white.png" alt="Hare Camp background" width="220">
 
 Revengeのテーマ追加画面へ、次のURLを貼り付けてください。
 
@@ -19,8 +19,6 @@ https://raw.githubusercontent.com/atyan-desu/liquid-lemon-glass-revenge/main/liq
 ### Atuko coo!
 
 白・薄紫・濃い紫を使用し、添付イラストを見やすく表示するテーマです。
-
-<img src="lavender-veil-background.jpg" alt="Atuko coo background" width="220">
 
 Revengeのテーマ追加画面へ、次のURLを貼り付けてください。
 
@@ -33,8 +31,6 @@ https://raw.githubusercontent.com/atyan-desu/liquid-lemon-glass-revenge/main/lav
 ### Kizashi Smart UI
 
 日本語表示に対応した、細身で読みやすいUIフォントです。
-
-![Kizashi Smart UI preview](KizashiSmartUI-preview.png)
 
 Revengeのフォント追加画面へ、次のURLを貼り付けてください。
 
